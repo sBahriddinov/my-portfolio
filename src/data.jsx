@@ -242,7 +242,7 @@ export const services = [
     icon: <AiOutlineTag />,
     name: 'SEO',
     description:
-      "Men sizga web saytlarni qidiruv va uni yaxshi natiada chiqishiga ham javob berishim mumkun albatta bor bilimim orqali va saytlarni optimallashitishga ham yordamlashishim mumkun.",
+      "Men sizga web saytlarni qidiruv va uni yaxshi natiada chiqishiga ham javob berishim mumkun albatta bor bilimim orqali va saytlarni optimallashtirish ham yordamlashishim mumkun.",
   },
 ];
 
