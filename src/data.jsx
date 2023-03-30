@@ -265,7 +265,7 @@ export const testimonials = [
   {
     authorImg: TestiImage3,
     authorText:
-      "Nabiyev Otavek bu video contentlar olishga qiziqadi va turli xil qiziqarli video yasashga qiziqadi.",
+      "Nabiyev Otabek bu video contentlar olishga qiziqadi va turli xil qiziqarli video yasashga qiziqadi.",
     authorName: 'Nabiyev Otabek',
     authorPosition: 'Mobile Graph, Photograph',
   },
